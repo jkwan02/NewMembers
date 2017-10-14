@@ -18,6 +18,16 @@ cjvander@calpoly.edu
 3rd year Computer Engineering
 Computer Vision
 
+Dane Mortensen
+dhmorten@calpoly.edu
+3rd year Computer Science
+Comms
+
+Matthew Lawler
+mrlawler@calpoly.edu
+1st Year Computer Engineering
+Comms
+
 Pramika Kumar
 ppraveen@calpoly.edu
 2nd year Computer Engineerng
@@ -27,8 +37,3 @@ Pranathi Guntupalli
 sguntupa@calpoly.edu
 2nd Year Software Engineering
 Logging System
-
-Dane Mortensen
-dhmorten@calpoly.edu
-3rd year Computer Science
-Comms
