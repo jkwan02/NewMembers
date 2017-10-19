@@ -47,3 +47,8 @@ Isaac LaBarge
 isaac.labarge@gmail.com
 Electrical Engineering
 Comms
+
+James Kao
+jkao03@calpoly.edu
+2nd Year Computer Science
+Performance Optimization
