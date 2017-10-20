@@ -56,7 +56,7 @@ Performance Optimization
 Justin Mo
 jmo02@calpoly.edu
 2nd Year Computer Science
-Performance Optimization
+GCS
 
 Selynna Sun
 smsun@calpoly.edu
