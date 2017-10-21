@@ -62,3 +62,8 @@ Selynna Sun
 smsun@calpoly.edu
 2nd Year Computer Science
 GCS
+
+James Van
+jvan05@calpoly.edu
+3rd Year Computer Engineering
+Logging System
