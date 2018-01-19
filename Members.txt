@@ -67,3 +67,8 @@ James Van
 jvan05@calpoly.edu
 3rd Year Computer Engineering
 Logging System
+
+James Kwan
+jkwan02@calpoly.edu
+3rd Year Computer Science
+Comms
